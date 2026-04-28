@@ -1,11 +1,11 @@
 ﻿{
     "track":  "beta",
-    "version":  "1.0.0-beta.10",
-    "published_at":  "2026-04-28T13:42:36Z",
-    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.0-beta.10",
-    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.0-beta.10/BookScout-beta-1.0.0-beta.10-Setup.exe",
-    "notes":  "Channel: beta\nSource branch: develop\nSource commit: c2f630c7fecccf13e92e9c28a1770de2fa5fae9f",
-    "sha256":  "75294c45ae74943b9080c2cd162d35fabc5f36691c10322d63d3fbace0d75b61",
+    "version":  "1.0.0-beta.11",
+    "published_at":  "2026-04-28T14:12:24Z",
+    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.0-beta.11",
+    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.0-beta.11/BookScout-beta-1.0.0-beta.11-Setup.exe",
+    "notes":  "Channel: beta\nSource branch: develop\nSource commit: ded6aea0964c16b70e6fffccdc49cc7d52c2702e",
+    "sha256":  "6460435bdb2a328bcaf100f734d95e869652f75dea8eafbd6da177d6431ad5a2",
     "source_branch":  "develop",
-    "source_commit":  "c2f630c7fecccf13e92e9c28a1770de2fa5fae9f"
+    "source_commit":  "ded6aea0964c16b70e6fffccdc49cc7d52c2702e"
 }
