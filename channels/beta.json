@@ -1,4 +1,4 @@
-﻿{
+{
     "track":  "beta",
     "version":  "1.0.0-beta.11",
     "published_at":  "2026-04-28T14:12:24Z",
@@ -9,3 +9,4 @@
     "source_branch":  "develop",
     "source_commit":  "ded6aea0964c16b70e6fffccdc49cc7d52c2702e"
 }
+
