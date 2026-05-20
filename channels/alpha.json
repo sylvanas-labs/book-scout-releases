@@ -1,11 +1,11 @@
 {
     "track":  "alpha",
-    "version":  "1.0.5-alpha.22",
-    "published_at":  "2026-05-20T00:56:05Z",
-    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.5-alpha.22",
-    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.5-alpha.22/BookScout-alpha-1.0.5-alpha.22-Setup.exe",
-    "notes":  "Channel: alpha\nSource branch: alpha\nSource commit: b8088905eab9155be6b9fbbdacdeb700188bce78",
-    "sha256":  "c58766a92b038192c01c01559893888dc7c499c93a6fe2c81df37abd369fe967",
+    "version":  "1.0.5-alpha.23",
+    "published_at":  "2026-05-20T11:45:42Z",
+    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.5-alpha.23",
+    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.5-alpha.23/BookScout-alpha-1.0.5-alpha.23-Setup.exe",
+    "notes":  "Channel: alpha\nSource branch: alpha\nSource commit: afa1f97913ed263cd124a87cf30686de4ff644bc",
+    "sha256":  "fb2dee6d39f75e61f86df8a0de13089abff88b27121452b79d439243b3454105",
     "source_branch":  "alpha",
-    "source_commit":  "b8088905eab9155be6b9fbbdacdeb700188bce78"
+    "source_commit":  "afa1f97913ed263cd124a87cf30686de4ff644bc"
 }
