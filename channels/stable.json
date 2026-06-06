@@ -1,11 +1,11 @@
 {
     "track":  "stable",
-    "version":  "1.0.5",
-    "published_at":  "2026-05-05T16:28:15Z",
-    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.5",
-    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.5/BookScout-stable-1.0.5-Setup.exe",
-    "notes":  "Channel: stable\nSource branch: main\nSource commit: b932e2c845b30ad3c4cd273d576e758b74f343a4",
-    "sha256":  "22cfb9f7410859c00c5e7c13134da199a39d01a38508e96c39c046bae8cbb6ae",
+    "version":  "1.0.6",
+    "published_at":  "2026-06-06T19:06:59Z",
+    "release_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/tag/1.0.6",
+    "installer_url":  "https://github.com/sylvanas-labs/book-scout-releases/releases/download/1.0.6/BookScout-stable-1.0.6-Setup.exe",
+    "notes":  "Channel: stable\nSource branch: main\nSource commit: a4db3968c20478fd02b993a71d814f902469c12d",
+    "sha256":  "d0d0472271f8443c7ab9c3360e3d4004f8b26a7e5dc4b99a1aba514f27978fcd",
     "source_branch":  "main",
-    "source_commit":  "b932e2c845b30ad3c4cd273d576e758b74f343a4"
+    "source_commit":  "a4db3968c20478fd02b993a71d814f902469c12d"
 }
